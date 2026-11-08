@@ -258,7 +258,6 @@ def main():
 
     print("Starting game monitor")
 
-    send("✅ Telegram Test Successful! Game Update Bot is working.")
 
     errors = []
 
